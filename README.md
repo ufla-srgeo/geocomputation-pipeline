@@ -22,8 +22,7 @@ Traditional GIS workflows rely on manual operations and fragmented graphical int
 ---
 
 ## Results Preview
-
-
+![Geomorphons Map](output/figures/geomorph.png)
 
 ---
 
