@@ -144,7 +144,9 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## Contact
 
-**Vitor Santos Figueiredo**
+**Vitor Augusto Ferreira - vitor.ferreira4@ufla.br**
 Universidade Federal de Lavras (UFLA)
-GitHub: [@vitorsantosfigueiredo](https://github.com/vitorsantosfigueiredo)
-Organization: [ufla-srgeo](https://github.com/ufla-srgeo)
+
+**Marcelo de Carvalho Alves - marcelo.alves@ufla.br**
+Universidade Federal de Lavras (UFLA)
+
