@@ -63,31 +63,6 @@ The pipeline was validated in the municipality of **Bom Sucesso, MG, Brazil**.
 
 ---
 
-## Repository Structure
-
-```
-geocomputation-pipeline/
-│
-├── README.md
-│
-├── R/
-│   ├── 01_territorial_delimitation.R   # Module 1: geobr + sf
-│   ├── 02_elevation_processing.R       # Module 2: SRTM + terra
-│   └── 03_landform_classification.R    # Module 3: geomorphons
-│
-├── data/
-│   ├── raw/                            # Original unmodified data
-│   └── processed/                      # Processed/clipped data
-│
-├── output/
-│   ├── figures/                        # Maps and charts
-│   └── tables/                         # Summary statistics
-│
-└── manuscript/                         # Article source files
-```
-
----
-
 ## Installation
 
 ```r
@@ -125,7 +100,7 @@ ibge_code <- 3107406  # Bom Sucesso, MG
 | `terra` | Raster processing in-memory (C++ backend) |
 | `sf` | Vector spatial data |
 | `geobr` | Brazilian official spatial data |
-| `MultiscaleDTM` | Geomorphons landform classification |
+| `rgeomorphon` | Geomorphons landform classification |
 
 ---
 
