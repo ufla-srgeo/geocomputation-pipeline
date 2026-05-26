@@ -15,9 +15,15 @@ This repository contains the complete reproducible pipeline for the manuscript:
 
 > **"An Open-Source Geocomputation Pipeline for Municipal Landscape Assessment: From Territorial Delimitation to Geomorphological Classification"**
 >
-> *Vitor Santos Figueiredo et al.* — Universidade Federal de Lavras (UFLA)
+> *Vitor Augusto Ferreira et al.* — Universidade Federal de Lavras (UFLA)
 
 Traditional GIS workflows rely on manual operations and fragmented graphical interfaces, limiting reproducibility. This work proposes a fully scripted pipeline in R that allows any researcher to replicate or extend the analysis to any Brazilian municipality by changing only the IBGE municipality code.
+
+---
+
+## Results Preview
+
+
 
 ---
 
@@ -129,10 +135,21 @@ ibge_code <- 3107406  # Bom Sucesso, MG
 If you use this pipeline, please cite:
 
 ```
-Figueiredo, V.S. et al. (2025). An Open-Source Geocomputation Pipeline for
-Municipal Landscape Assessment: From Territorial Delimitation to Geomorphological
-Classification. [Journal Name]. DOI: [to be assigned]
+Ferreira, V.A., Alves, M.C., Campos, G.A.O., Schneider, B.O., & Silva, F.M. (2026).
+An Open-Source Geocomputation Pipeline for Municipal Landscape Assessment: From
+Territorial Delimitation to Geomorphological Classification.
+Received: June 12, 2026 — Accepted: July 15, 2026. DOI: [to be assigned]
 ```
+
+```bibtex
+@article{ferreira2026geocomputation,
+  title   = {An Open-Source Geocomputation Pipeline...},
+  author  = {Ferreira, Vítor Augusto and ...},
+  year    = {2026},
+  doi     = {[to be assigned]}
+}
+```
+
 
 ---
 
