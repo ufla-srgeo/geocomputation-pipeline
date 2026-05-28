@@ -133,6 +133,13 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
 
+## 🌄 Pipeline Geomorfométrico Interativo
+
+Aplicativo Shiny para classificação automática de formas de relevo (Geomorphons) a partir de dados SRTM, com cache em disco, resolução ajustável e estatísticas do terreno.
+
+🔗 **Acesse o app online:** [srgeo.shinyapps.io/classificacao-relevo](https://srgeo.shinyapps.io/classificacao-relevo/)
+
+
 ## Contact
 
 **Vitor Augusto Ferreira - vitor.ferreira4@ufla.br**
